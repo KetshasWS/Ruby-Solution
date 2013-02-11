@@ -1,0 +1,19 @@
+development:
+
+
+adapter:mysql
+
+
+database:b17_882873_Test
+
+
+host:sql104.byethost17.com
+
+
+username:b17_882873
+
+
+password:''KWS123''
+
+
+socket: /tmp/mysql.sock
